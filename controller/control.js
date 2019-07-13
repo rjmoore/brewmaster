@@ -1,4 +1,4 @@
-// this script runs via cron a set intervals and records temperature/controls heater
+// this script runs via cron at set intervals and records temperature/controls heater
 
 var sqlite3 = require('sqlite3');
 var S = require('string');
